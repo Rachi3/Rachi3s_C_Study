@@ -18,5 +18,8 @@
     <ClCompile Include="달팽이배열.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\source\repos\c언어\c언어\모범답안.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
